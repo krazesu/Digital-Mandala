@@ -1,4 +1,4 @@
-from sp2_mandala import *
+from mandala import *
 
 if __name__ == '__main__':
     #initialize the shuriken like christmas star
@@ -73,4 +73,4 @@ if __name__ == '__main__':
 
     # show created shuriken-like mandala and save
     shuriken.show()
-    shuriken.save("sp2_output.png")
+    shuriken.save("output.png")
